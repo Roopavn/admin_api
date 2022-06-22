@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'chatbox',
         'HOST': 'localhost',
         'USER': 'postgres',
-        'PASSWORD': '123456',
+        'PASSWORD': 'password',
     }
 }
 
